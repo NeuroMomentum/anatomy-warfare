@@ -8,6 +8,7 @@ This repository introduces and defines the term 'Anatomy Warfare'.
 ## Origin of Terminology
 
 The term 'Anatomy Warfare' is proposed by NeuroMomentum Consulting Services, a U.S. Registered LLC.
+
 www.AnatomyWarfare.Com
 ## Definition
 
