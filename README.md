@@ -8,7 +8,7 @@ This repository introduces and defines the term 'Anatomy Warfare'.
 ## Origin of Terminology
 
 The term 'Anatomy Warfare' is proposed by NeuroMomentum Consulting Services, a U.S. Registered LLC.
-
+www.AnatomyWarfare.Com
 ## Definition
 
 Anatomy Warfare refers to the deliberate and strategic practice of dissecting, analyzing, and manipulating the internal components - whether physiological, institutional, technological, or conceptual - of an entity, system, or ideology to expose vulnerabilities, exercise influence, or exert dominance. It emphasizes the exploitation of a system or its components as a means of enacting conflict, inducing compromise, or catalyzing transformation.
